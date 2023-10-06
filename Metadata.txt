@@ -1,0 +1,22 @@
+https://pool.pm/test/metadata?metadata=%257B%2522721%2522%253A%257B%2522f4eb7a563f4aaeddf9c0586000de3d232ed2c44062aa870c64949ec2%2522%253A%257B%2522SecondBirthday000%2522%253A%257B%2522Artist%2522%253A%2522Headroom%2522%252C%2522Candles%2522%253A%2522Candy%2522%252C%2522files%2522%253A%255B%257B%2522mediaType%2522%253A%2522text%252Fhtml%2522%252C%2522src%2522%253A%2522ar%253A%252F%252FterOPZF-QpczozRIfS8Q_KinafbETUxdNb3xjcmVK8U%2522%257D%255D%252C%2522image%2522%253A%2522https%253A%252F%252Farweave.net%252FscljPpYbRtfsz1N_7oUqgCDYWz49YKt2Fv9PCPqos04%2522%252C%2522mediaType%2522%253A%2522image%252Fjpeg%2522%252C%2522name%2522%253A%2522SecondBirthday000%2522%252C%2522description%2522%253A%2522This%2520collection%2520marks%2520Gingerbread%2520Squad%27s%2520two%2520years%2520of%2520growth%252C%2520innovation%252C%2520and%2520chill%2520vibes.%2520This%2520NFT%2520also%2520provides%2520access%2520to%2520a%2520special%2520game%2520on%2520gingerbreadsquad.io.%2520Happy%2520Birthday%2520Fam!%2522%257D%257D%257D%257D
+
+{
+  "721": {
+    "f4eb7a563f4aaeddf9c0586000de3d232ed2c44062aa870c64949ec2": {
+      "SecondBirthday000": {
+        "Artist": "Headroom",
+        "Candles": "Candy",
+        "files": [
+          {
+            "mediaType": "text/html",
+            "src": "ar://terOPZF-QpczozRIfS8Q_KinafbETUxdNb3xjcmVK8U"
+          }
+        ],
+        "image": "https://arweave.net/scljPpYbRtfsz1N_7oUqgCDYWz49YKt2Fv9PCPqos04",
+        "mediaType": "image/jpeg",
+        "name": "SecondBirthday000",
+        "description": "This collection marks Gingerbread Squad's two years of growth, innovation, and chill vibes. This NFT also provides access to a special game on gingerbreadsquad.io. Happy Birthday Fam!"
+      }
+    }
+  }
+}
